@@ -1,4 +1,4 @@
-## YelpCamp
+## Netflix Clone
 
 o	A front-end application which is complete clone to Netflix created using React.JS and ES7. <br />o	When user clicks on the movie poster, a YouTube trailer of the respective movie plays. Used React Hooks, React-YouTube package, TMDB API to retrieve movie details with respect to specific categories. Deployed on Firebase.
 
